@@ -6,3 +6,4 @@ Git tracks changes.
 Create a new branch.
 Creating a new branch named feafule1.
 Using --no-ff method to merge.
+I hava something that have to do now so I must use stash command.
